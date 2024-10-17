@@ -1,0 +1,59 @@
+﻿U.S. Inflation,Fixed Income
+U.S. Cash,Fixed Income
+U.S. Intermediate Treasuries,Fixed Income
+U.S. Long Treasuries,Fixed Income
+TIPS,Fixed Income
+U.S. Aggregate Bonds,Fixed Income
+U.S. Securitized,Fixed Income
+U.S. Short Duration Government/Credit,Fixed Income
+U.S. Long Duration Government/Credit,Fixed Income
+U.S. Inv Grade Corporate Bonds,Fixed Income
+U.S. Long Corporate Bonds,Fixed Income
+U.S. High Yield Bonds,Fixed Income
+U.S. Leveraged Loans,Fixed Income
+World Government Bonds hedged,Fixed Income
+World Government Bonds,Fixed Income
+World ex-U.S. Government Bonds hedged,Fixed Income
+World ex-U.S. Government Bonds,Fixed Income
+Emerging Markets Sovereign Debt,Fixed Income
+Emerging Markets Local Currency Debt,Fixed Income
+Emerging Markets Corporate Bonds,Fixed Income
+U.S. Muni 1-15 Yr Blend,Fixed Income
+U.S. Muni High Yield,Fixed Income
+U.S. Large Cap,Equities
+U.S. Mid Cap,Equities
+U.S. Small Cap,Equities
+Euro Area Large Cap,Equities
+Japanese Equity,Equities
+Hong Kong Equity,Equities
+UK Large Cap,Equities
+EAFE Equity,Equities
+Chinese Domestic Equity,Equities
+Emerging Markets Equity,Equities
+AC Asia ex-Japan Equity,Equities
+AC World Equity,Equities
+U.S. Equity Value Factor,Equities
+U.S. Equity Momentum Factor,Equities
+U.S. Equity Quality Factor,Equities
+U.S. Equity Minimum Volatility Factor,Equities
+U.S. Equity Dividend Yield Factor,Equities
+Global Convertible Bonds hedged,Equities
+U.S. Core Real Estate ,Alternatives
+U.S. Value-Added Real Estate ,Alternatives
+European Core Real Estate ,Alternatives
+Asia Pacific Core Real Estate,Alternatives
+U.S. REITs   ,Alternatives
+Commercial Mortgage Loans  ,Alternatives
+Global Core Infrastructure  ,Alternatives
+Global Core Transport  ,Alternatives
+Global Timberland   ,Alternatives
+Commodities    ,Alternatives
+Gold    ,Alternatives
+Private Equity   ,Alternatives
+Venture Capital   ,Alternatives
+Diversified Hedge Funds  ,Alternatives
+Event Driven Hedge Funds ,Alternatives
+Long Bias Hedge Funds ,Alternatives
+Relative Value Hedge Funds ,Alternatives
+Macro Hedge Funds  ,Alternatives
+Direct Lending,Alternatives
